@@ -1,6 +1,6 @@
-# empty-project
+# Rowan
 
-Empty project.
+Rowan's birthday party website.
 
 ## Building and running on localhost
 
