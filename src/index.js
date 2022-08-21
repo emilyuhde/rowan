@@ -26,7 +26,7 @@ class App extends React.Component {
         <p>
           Brighton Town Park<br/>
           Pavillion #1<br/>
-          777 Westfall Rd. Rochester, NY
+          777 Westfall Rd. Brighton, NY
         </p>
         <p>We will be in the pavillion, not the lodge, right next to the parking lot off of
           Haudenosaunee Trail. There is a playground near by that everyone can use and a field

@@ -28419,7 +28419,7 @@ var App = /*#__PURE__*/function (_React$Component) {
           age = _this$props.age,
           date = _this$props.date,
           time = _this$props.time;
-      return /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, /*#__PURE__*/_react.default.createElement("h1", null, "Happy Birthday, ", name, "! \uD83C\uDF82\uD83C\uDF89"), /*#__PURE__*/_react.default.createElement("p", null, name, " is turning ", /*#__PURE__*/_react.default.createElement("u", null, age, " years old"), "! Please join us to celebrate his birthday!"), /*#__PURE__*/_react.default.createElement("h2", null, "When"), /*#__PURE__*/_react.default.createElement("p", null, date, /*#__PURE__*/_react.default.createElement("br", null), time), /*#__PURE__*/_react.default.createElement("h2", null, "Where"), /*#__PURE__*/_react.default.createElement("p", null, "Brighton Town Park", /*#__PURE__*/_react.default.createElement("br", null), "Pavillion #1", /*#__PURE__*/_react.default.createElement("br", null), "777 Westfall Rd. Rochester, NY"), /*#__PURE__*/_react.default.createElement("p", null, "We will be in the pavillion, not the lodge, right next to the parking lot off of Haudenosaunee Trail. There is a playground near by that everyone can use and a field to run and play on. Restrooms are available near the pavillion. Be aware that the lodge is near a pond so please keep an eye on your little ones!"), /*#__PURE__*/_react.default.createElement("a", {
+      return /*#__PURE__*/_react.default.createElement(_react.default.Fragment, null, /*#__PURE__*/_react.default.createElement("h1", null, "Happy Birthday, ", name, "! \uD83C\uDF82\uD83C\uDF89"), /*#__PURE__*/_react.default.createElement("p", null, name, " is turning ", /*#__PURE__*/_react.default.createElement("u", null, age, " years old"), "! Please join us to celebrate his birthday!"), /*#__PURE__*/_react.default.createElement("h2", null, "When"), /*#__PURE__*/_react.default.createElement("p", null, date, /*#__PURE__*/_react.default.createElement("br", null), time), /*#__PURE__*/_react.default.createElement("h2", null, "Where"), /*#__PURE__*/_react.default.createElement("p", null, "Brighton Town Park", /*#__PURE__*/_react.default.createElement("br", null), "Pavillion #1", /*#__PURE__*/_react.default.createElement("br", null), "777 Westfall Rd. Brighton, NY"), /*#__PURE__*/_react.default.createElement("p", null, "We will be in the pavillion, not the lodge, right next to the parking lot off of Haudenosaunee Trail. There is a playground near by that everyone can use and a field to run and play on. Restrooms are available near the pavillion. Be aware that the lodge is near a pond so please keep an eye on your little ones!"), /*#__PURE__*/_react.default.createElement("a", {
         href: "https://goo.gl/maps/gAfXn7nSYiJWot9t8"
       }, /*#__PURE__*/_react.default.createElement("img", {
         src: _parkMap.default,
@@ -28485,7 +28485,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62987" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52843" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
