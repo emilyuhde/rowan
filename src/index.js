@@ -42,7 +42,7 @@ class App extends React.Component {
 
         <h2>RSVP</h2>
         <p>By September 6 please</p>
-        <p>to Emily 360-521-7834 or Andrew 360-521-3365</p>
+        <p>to Emily 360 521 7834 or Andrew 360 521 3365</p>
 
         <h2>About {name}</h2>
         <ul>
