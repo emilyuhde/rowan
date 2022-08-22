@@ -55,7 +55,7 @@ class App extends React.Component {
         <p>If you wish to bring a birthday gift for {name}, here are some ideas.</p>
         <ul>
           <li>Magna-Tiles</li>
-          <li><a href="hhttps://www.schleich-s.com/en/US/farm-world.html?product_list_dir=asc">Animal figures</a>, especially rabbits and chickens</li>
+          <li><a href="https://www.schleich-s.com/en/US/farm-world.html?product_list_dir=asc">Animal figures</a>, especially rabbits and chickens</li>
           <li>Books, especially...</li>
             <ul>
               <li><a href="https://www.barnesandnoble.com/s/the%20dinosaur%20that%20pooped/">The Dinosaur That Pooped series</a></li>
