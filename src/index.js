@@ -25,18 +25,18 @@ class App extends React.Component {
         <h2>Where</h2>
         <p>
           Brighton Town Park<br/>
-          Pavillion #1<br/>
+          Pavilion #1<br/>
           777 Westfall Rd. Brighton, NY
         </p>
-        <p>We will be in the pavillion, not the lodge, right next to the parking lot off of
+        <p>We will be in the pavilion, not the lodge, right next to the parking lot off of
           Haudenosaunee Trail. There is a playground near by that everyone can use and a field
-          to run and play on. Restrooms are available near the pavillion. Be aware that
-          the pavillion is near a pond so please keep an eye on your little ones!
+          to run and play on. Restrooms are available near the pavilion. Be aware that
+          the pavilion is near a pond so please keep an eye on your little ones!
         </p>
         <a href="https://goo.gl/maps/gAfXn7nSYiJWot9t8">
           <img
             src={map}
-            alt="Google maps location of Brighton Town Park pavillion 1"
+            alt="Google maps location of Brighton Town Park Pavilion 1"
           />
         </a>
 
